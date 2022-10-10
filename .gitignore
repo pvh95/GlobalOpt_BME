@@ -1,0 +1,8 @@
+# Ignoring Mac system file
+.DS_Store
+
+#Ignoring files 
+
+#Ignoring folders
+resources/*
+lecture_notes/*
